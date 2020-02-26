@@ -9,3 +9,6 @@ https://www.hackerrank.com/contests/projecteuler/challenges/euler004/problem
 ## Problem 2 : Euler's 005 : SmallestMultiple.py
 https://www.hackerrank.com/contests/projecteuler/challenges/euler005/problem
 
+## Problem 3 : Euler's 006 : SumSquareDifference.py
+https://www.hackerrank.com/contests/projecteuler/challenges/euler006/problem
+
