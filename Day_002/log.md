@@ -14,3 +14,6 @@ https://www.hackerrank.com/contests/projecteuler/challenges/euler006/problem
 
 ## Problen 4 : Euler's 007 : 10001stPrime.py
 https://www.hackerrank.com/contests/projecteuler/challenges/euler007/problem
+
+## Problem 5 : Euler's 008 : LagestProductInASeries.py
+https://www.hackerrank.com/contests/projecteuler/challenges/euler008/problem
