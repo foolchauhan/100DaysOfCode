@@ -5,3 +5,7 @@ then today onwards I will be solving Euler's Project Codes
 
 ## Problem 1 : Euler's 004 : LargestPalindromeProduct.py
 https://www.hackerrank.com/contests/projecteuler/challenges/euler004/problem
+
+## Problem 2 : Euler's 005 : SmallestMultiple.py
+https://www.hackerrank.com/contests/projecteuler/challenges/euler005/problem
+
